@@ -1,5 +1,7 @@
 # data
 /data
-
-# figures
+#csv files
+*.csv
+Fetch-AZA/*csv
+#figures
 /figures
